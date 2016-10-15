@@ -11,7 +11,7 @@ int main() {
 	main_window_create();
 
 	window_stack_push(splash_window_get_window(), true);
-	app_timer_register(1500, launch_main_window, NULL);
+	app_timer_register(2000, launch_main_window, NULL);
 
 	app_event_loop();
 	splash_window_destroy();
