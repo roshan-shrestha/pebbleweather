@@ -1,0 +1,25 @@
+{
+    "author": "Roshan Shrestha",
+    "dependencies": {},
+    "keywords": [],
+    "name": "weather",
+    "pebble": {
+        "displayName": "Weather",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt"
+        ],
+        "uuid": "e53ce08a-71a4-4a99-805b-e6963ec45b54",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
