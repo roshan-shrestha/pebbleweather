@@ -9,7 +9,14 @@
         "messageKeys": [],
         "projectType": "native",
         "resources": {
-            "media": []
+            "media": [
+                {
+                    "file": "images/icon.png",
+                    "name": "SPLASH_IMAGE",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                }
+            ]
         },
         "sdkVersion": "3",
         "targetPlatforms": [
